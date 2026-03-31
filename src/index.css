@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-mono: 'JetBrains Mono', 'Roboto Mono', monospace;
+}
+
+:root {
+  --bg-dark: #0A0A0B;
+  --card-dark: #0F0F12;
+  --accent: #F27D26;
+  --text-muted: #8E9299;
+}
+
+body {
+  background-color: var(--bg-dark);
+  color: #E4E4E7;
+  -webkit-font-smoothing: antialiased;
+}

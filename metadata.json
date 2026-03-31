@@ -1,0 +1,5 @@
+{
+  "name": "SNI Connect",
+  "description": "A professional tool for managing and testing SNI-based network configurations including REALITY and TLS Fragmentation.",
+  "requestFramePermissions": []
+}
